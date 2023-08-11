@@ -38,7 +38,7 @@ I am open for collaborations in research. I am also actively looking for collabo
 [**Code**](https://github.com/RuoyuChen10/Sim2Word) / [**Paper**](https://dl.acm.org/doi/abs/10.1145/3563039) / [**Poster**](https://ruoyuchen10.github.io/slide/Sim2Word_TOMMCAP2022.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 ACM Transactions on Multimedia Computing, Communications, and Applications,  
-<font color=purple>Impact factor: 4.094</font>
+<font color=purple>Impact factor: 5.1</font>
 </div>
 </div>
 
@@ -53,7 +53,7 @@ ACM Transactions on Multimedia Computing, Communications, and Applications,
 [**Code**](https://github.com/RuoyuChen10/Image_weighing) / [**Paper**](https://doi.org/10.1016/j.psj.2022.102348) / [**Poster**](https://ruoyuchen10.github.io/slide/Image_Weighing_PoultrySci.2022.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 Poultry Science (Top Journal in Agricultural and Biological Sciences),  
-<font color=purple>Impact factor: 4.014</font>
+<font color=purple>Impact factor: 4.4</font>
 </div>
 </div>
 

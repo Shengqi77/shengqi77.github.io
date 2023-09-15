@@ -82,8 +82,8 @@ Ranking: 2/119
 
 ### Journal Reviewer
 
-- [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) x3
-- [IEEE Transactions on Biometrics, Behavior, and Identity Science](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754) x1
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) x3
+- [IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754) x1
 
 ### Conference Reviewer
 

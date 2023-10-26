@@ -78,6 +78,9 @@ School of Control Engineering, Northeastern University, China.
 Bachelor of Engineering  
 Ranking: 2/119
 
+# 🎤 Talk
+- *2023.10.20* "[Survey on the interpretability of foundation models](https://ruoyuchen10.github.io/talk/Ruoyu_Chen-Interpretation_of_foundation_model.pdf)" at **Huawei**
+
 # 💬 Professional Service
 
 ### Journal Reviewer

@@ -25,9 +25,22 @@ I am open for collaborations in research. I am also actively looking for collabo
 
 
 # 🔥 News
-- *2023.05*: &nbsp;🎉🎉 Created a new home page. 
+- *2024.01.16*: &nbsp;🎉🎉 One paper is accepted by **ICLR Oral**! 
+- *2023.05*: Created a new home page. 
 
 # 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 Oral</div><img src='images/SMDL-Attribution.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Less is More: Fewer Interpretable Region via Submodular Subset Selection](https://openreview.net/forum?id=jKTUlxo5zy)
+**Ruoyu Chen**, Hua Zhang, Siyuan Liang, Jingzhi Li, and Xiaochun Cao
+
+[**Code**](https://github.com/RuoyuChen10/SMDL-Attribution) / [**Paper**](https://openreview.net/pdf?id=jKTUlxo5zy) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+International Conference on Learning Representations (ICLR),  
+<strong><font color=red>Oral (85/7262, 1.16%)</font></strong>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2023</div><img src='images/sim2word.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -85,7 +98,7 @@ Ranking: 2/119
 
 ### Journal Reviewer
 
-- [IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) x3
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) x4
 - [IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754) x1
 
 ### Conference Reviewer

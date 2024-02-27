@@ -92,14 +92,15 @@ School of Control Engineering, Northeastern University, China.
 Bachelor of Engineering  
 Ranking: 2/119
 
-# 🎤 Talk
+# 🎤 Talking & Teaching
+- *2023.12.26* "[Explainable Artificial Intelligence](https://ruoyuchen10.github.io/talk/Ruoyu_Chen-Teaching-XAI_SYSU.pdf)" at **Shenzhen Campus of Sun Yat-sen University**
 - *2023.10.20* "[Survey on the interpretability of foundation models](https://ruoyuchen10.github.io/talk/Ruoyu_Chen-Interpretation_of_foundation_model.pdf)" at **Huawei**
 
 # 💬 Professional Service
 
 ### Journal Reviewer
 
-- [IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) x4
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) x6
 - [IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754) x1
 
 ### Conference Reviewer
@@ -107,6 +108,6 @@ Ranking: 2/119
 - CVPR 24, 23
 - ICLR 24
 - NeurIPS 23
-- ICML 23
+- ICML 23, 24
 - ICCV 23
-- ECCV 22
+- ECCV 22, 24

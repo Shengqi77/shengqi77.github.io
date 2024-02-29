@@ -36,7 +36,7 @@ I am open for collaborations in research. I am also actively looking for collabo
 
 **Ruoyu Chen**, Hua Zhang, Siyuan Liang, Jingzhi Li, and Xiaochun Cao
 
-[**Code**](https://github.com/RuoyuChen10/SMDL-Attribution) / [**Paper**](https://openreview.net/pdf?id=jKTUlxo5zy) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/RuoyuChen10/SMDL-Attribution) / [**Paper**](https://openreview.net/pdf?id=jKTUlxo5zy) / [**AI Time Presentation**](https://ruoyuchen10.github.io/slide/AITime_less-is-more.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 International Conference on Learning Representations (ICLR),  
 <strong><font color=red>Oral (85/7262, 1.16%)</font></strong>
@@ -93,8 +93,9 @@ Bachelor of Engineering
 Ranking: 2/119
 
 # 🎤 Talking & Teaching
-- *2023.12.26* "[Explainable Artificial Intelligence](https://ruoyuchen10.github.io/talk/Ruoyu_Chen-Teaching-XAI_SYSU.pdf)" at **Shenzhen Campus of Sun Yat-sen University**
-- *2023.10.20* "[Survey on the interpretability of foundation models](https://ruoyuchen10.github.io/talk/Ruoyu_Chen-Interpretation_of_foundation_model.pdf)" at **Huawei**
+- *2024.2.28* Share a ICLR 24 paper "[Less is More: Fewer Interpretable Region via Submodular Subset Selection](https://ruoyuchen10.github.io/slide/AITime_less-is-more.pdf)" at **AI Time**
+- *2023.12.26* Taught the undergraduate course "[Explainable Artificial Intelligence](https://ruoyuchen10.github.io/talk/Ruoyu_Chen-Teaching-XAI_SYSU.pdf)" at **Shenzhen Campus of Sun Yat-sen University**
+- *2023.10.20* Share a technical review "[Survey on the interpretability of foundation models](https://ruoyuchen10.github.io/talk/Ruoyu_Chen-Interpretation_of_foundation_model.pdf)" at **Huawei**
 
 # 💬 Professional Service
 

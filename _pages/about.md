@@ -49,7 +49,7 @@ Preprint 2024,
 
 **Ruoyu Chen**, Hua Zhang, Siyuan Liang, Jingzhi Li, and Xiaochun Cao
 
-[**Code**](https://github.com/RuoyuChen10/SMDL-Attribution) / [**Paper**](https://openreview.net/pdf?id=jKTUlxo5zy) / [**AI Time Presentation**](https://ruoyuchen10.github.io/slide/AITime_less-is-more.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/RuoyuChen10/SMDL-Attribution) / [**Paper**](https://openreview.net/pdf?id=jKTUlxo5zy) / [**Poster**](https://ruoyuchen10.github.io/slide/2053-poster.png) /  [**AI Time Presentation**](https://ruoyuchen10.github.io/slide/AITime_less-is-more.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 International Conference on Learning Representations (ICLR),  
 <strong><font color=red>Oral (85/7262, 1.16%)</font></strong>
@@ -114,8 +114,8 @@ Ranking: 2/119
 
 ### Journal Reviewer
 
-- [IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) x6
-- [IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754) x1
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) x8
+- [IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754) x2
 
 ### Conference Reviewer
 

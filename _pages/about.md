@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Ruoyu Chen <font face="楷体" >(陈若愚)</font>**, a Ph.D. candidate in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the tutelage of [Xiaochun Cao](https://scholar.google.com/citations?user=PDgp6OkAAAAJ&hl=en) (Professor at Sun Yat-sen University). My research interests include *Artificial Intelligence* and *Computer Vision*. My recent research works mainly focus on *Explainable AI*, *Disentangle*, *Few-shot Learning*, which applications in *Human Face*, *Object Detection*. I received my B.E. degree from School of Control Engineering, Northeastern University. During my undergraduate years, my main research interests are the application of artificial intelligence and image processing in agriculture and biomedical engineering. I am also very fortunate to have worked with lots of distinguished researchers.
+I'm **Ruoyu Chen <font face="楷体" >(陈若愚)</font>**, a Ph.D. candidate in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the tutelage of [Xiaochun Cao](https://scholar.google.com/citations?user=PDgp6OkAAAAJ&hl=en) (Professor at Sun Yat-sen University). My research interests include <u>*Interpretable AI*</u> and <u>*Foundation Model*</u>. 
 
-I am open for collaborations in research. I am also actively looking for collaborators, especially in the fields of **Trustworthy AI** and **Open World**. Please feel free to contact me.
+I'm committed to making XAI meaningful and actually helping us with AI systems. Including in the <u>*model testing phase*</u>, building an interpretation method for debugging the model to help us discover potential biases and errors in the model. In the <u>*model training phase*</u>, specific defects are discovered through interpretability, and a reasonable feedback mechanism is designed to enable the model to automatically repair errors to improve model performance and generalization, while making the training process transparent. In the <u>*model deployment phase*</u>, improve the explanation of the model and study the human-computer interaction or AI agent processes in dynamic environments.
+
+I received my B.E. degree from School of Control Engineering, Northeastern University. I am also very fortunate to have worked with lots of distinguished researchers. 
+
+I am open for collaborations in research. I am also actively looking for collaborators, especially in the fields of **Trustworthy AI** and **Foundation Model**. Please feel free to contact me.
 
 
 # 🔥 News
@@ -45,7 +49,6 @@ Preprint 2024,
 <div class='paper-box-text' markdown="1">
 [Less is More: Fewer Interpretable Region via Submodular Subset Selection](https://openreview.net/forum?id=jKTUlxo5zy)
 **Ruoyu Chen**, Hua Zhang, Siyuan Liang, Jingzhi Li, and Xiaochun Cao
-
 [**Code**](https://github.com/RuoyuChen10/SMDL-Attribution) / [**Paper**](https://openreview.net/pdf?id=jKTUlxo5zy) / [**Slide**](https://iclr.cc/media/iclr-2024/Slides/19733.pdf) / [**Poster**](https://ruoyuchen10.github.io/slide/2053-poster.png) /  [**AI Time Presentation**](https://ruoyuchen10.github.io/slide/AITime_less-is-more.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 International Conference on Learning Representations (ICLR),  

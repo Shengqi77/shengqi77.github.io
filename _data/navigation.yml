@@ -15,11 +15,7 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Talk"
-    url: "/#-talk"
-
   - title: "Professional Service"
     url: "/#-professional-service"
 
-  # - title: "Internships"
-  #   url: "/#-internships"
+

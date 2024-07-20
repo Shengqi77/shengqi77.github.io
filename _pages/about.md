@@ -43,7 +43,7 @@ I am open for collaborations in research. I am also actively looking for collabo
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR UG2+ Prize Challenge</div><img src='images/2023Text.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW UG2+ Challenge</div><img src='images/2023Text.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [1st Solution Places for CVPR 2023 UG2+ Challenge Track 2.1-
 Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.08963)
@@ -52,10 +52,25 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 
 [**arXiv**](https://arxiv.org/pdf/2306.08963) / [**Code**](https://github.com/Shengqi77/UG2_Turbulence_Mitigation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-<p style="margin-top: -11px"><i>6th  CVPR UG2+ Prize Challenge, 2023.</i></p>
+<p style="margin-top: -11px"><i>6th  CVPRW UG2+ Challenge, 2023.</i></p>
 <strong><font color=red>First Place</font></strong>
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW UG2+ Challenge</div><img src='images/2023Target.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[1st Solution Places for CVPR 2023 UG2+ Challenge Track 2.2-Coded Target Restoration through Atmospheric Turbulence](https://arxiv.org/pdf/2306.09379)
+
+<strong>Shengqi Xu</strong>, Shuning Cao, Haoyue Liu, Xueyao Xiao, Yi Chang*, Luxin Yan.
+[**arXiv**](https://arxiv.org/pdf/2306.09379) / [**Code**](https://github.com/Shengqi77/UG2_Turbulence_Mitigation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<p style="margin-top: -11px"><i>6th  CVPRW UG2+ Challenge , 2023.</i></p>
+<strong><font color=red>First Place</font></strong>
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2023</div><img src='images/sim2word.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

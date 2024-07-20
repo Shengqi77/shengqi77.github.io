@@ -36,22 +36,24 @@ I am open for collaborations in research. I am also actively looking for collabo
 
 <strong>Shengqi Xu</strong>, Run Sun, Yi Chang*, Shuning Cao, Xueyao Xiao, Luxin Yan
 
-[**Paper**](https://arxiv.org/pdf/2407.08377) / [**Project**](https://shengqi77.github.io/RLR-AT.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**arXiv**](https://arxiv.org/pdf/2407.08377) / [**Project**](https://shengqi77.github.io/RLR-AT.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
   <p style="margin-top: -11px"><i>European Conference on Computer Vision (<strong> ECCV </strong>), 2024.</i></p>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 Oral</div><img src='images/SMDL-Attribution.jpg' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR UG2+ Prize Challenge</div><img src='images/2023Text.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Less is More: Fewer Interpretable Region via Submodular Subset Selection](https://openreview.net/forum?id=jKTUlxo5zy)
+[1st Solution Places for CVPR 2023 UG2+ Challenge Track 2.1-
+Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.08963)
 
-**Ruoyu Chen**, Hua Zhang, Siyuan Liang, Jingzhi Li, and Xiaochun Cao
+<strong>Shengqi Xu</strong>, Xueyao Xiao, Shuning Cao, Yi Chang*, Luxin Yan
 
-[**Code**](https://github.com/RuoyuChen10/SMDL-Attribution) / [**Paper**](https://openreview.net/pdf?id=jKTUlxo5zy) / [**Slide**](https://iclr.cc/media/iclr-2024/Slides/19733.pdf) / [**Poster**](https://ruoyuchen10.github.io/slide/2053-poster.png) /  [**AI Time Presentation**](https://ruoyuchen10.github.io/slide/AITime_less-is-more.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**arXiv**](https://arxiv.org/pdf/2306.08963) / [**Code**](https://github.com/Shengqi77/UG2_Turbulence_Mitigation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-International Conference on Learning Representations (ICLR),  
-<strong><font color=red>Oral (85/7262, 1.16%)</font></strong>
+<p style="margin-top: -11px"><i>6th  CVPR UG2+ Prize Challenge, 2023.</i></p>
+<strong><font color=red>First Place</font></strong>
 </div>
 </div>
 

@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shengqi"
+  name             : "Shengqi Xu"
   avatar           : "images/XSQ.png"
   bio              : "Major in Computer Application Technology, Computer Vision"
   location         : "Wuhan, China"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : 
-  orcid            : "https://orcid.org/0000-0001-7630-7154" # e.g., "https://orcid.org/xxxx"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -62,7 +62,8 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 <div class='paper-box-text' markdown="1">
 [1st Solution Places for CVPR 2023 UG2+ Challenge Track 2.2-Coded Target Restoration through Atmospheric Turbulence](https://arxiv.org/pdf/2306.09379)
 
-<strong>Shengqi Xu</strong>, Shuning Cao, Haoyue Liu, Xueyao Xiao, Yi Chang*, Luxin Yan.
+<strong>Shengqi Xu</strong>, Shuning Cao, Haoyue Liu, Xueyao Xiao, Yi Chang*, Luxin Yan
+
 [**arXiv**](https://arxiv.org/pdf/2306.09379) / [**Code**](https://github.com/Shengqi77/UG2_Turbulence_Mitigation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 <p style="margin-top: -11px"><i>6th  CVPRW UG2+ Challenge, Code Recognition through Turbulence, 2023.</i></p>

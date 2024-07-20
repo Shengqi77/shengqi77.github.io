@@ -53,7 +53,7 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 [**arXiv**](https://arxiv.org/pdf/2306.08963) / [**Code**](https://github.com/Shengqi77/UG2_Turbulence_Mitigation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 <p style="margin-top: -11px"><i>6th  CVPRW UG2+ Challenge,  2023.</i></p>
-<strong><font color=red>First Prize</font> in the Track of Text Recognition through Turbulence</strong>
+<strong><font color=red>First Place</font> in the Track of Text Recognition through Turbulence</strong>
 </div>
 </div>
 
@@ -67,15 +67,15 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 [**arXiv**](https://arxiv.org/pdf/2306.09379) / [**Code**](https://github.com/Shengqi77/UG2_Turbulence_Mitigation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 <p style="margin-top: -11px"><i>6th  CVPRW UG2+ Challenge, 2023.</i></p>
-<strong><font color=red>First Prize</font> in the Track of Code Recognition through Turbulence </strong>
+<strong><font color=red>First Place</font> in the Track of Code Recognition through Turbulence </strong>
 </div>
 </div>
 
 
 
 # 🎖 Honors and Awards
-- *2024.06* <strong><font color=red>First Prize</font> of the track 'Atmospheric Turbulence Mitigation' in the CVPR 2024 UG2+ Challenge</strong>.
-- *2023.06* <strong> <font color=red>First Prize</font> of the track 'Atmospheric Turbulence Mitigation' in the CVPR 2023 UG2+ Challenge</strong>.
+- *2024.06* <strong><font color=red>First Place</font> of the track 'Atmospheric Turbulence Mitigation' in the CVPR 2024 UG2+ Challenge</strong>.
+- *2023.06* <strong> <font color=red>First Place</font> of the track 'Atmospheric Turbulence Mitigation' in the CVPR 2023 UG2+ Challenge</strong>.
 - *2020.04*  <strong><font color=red>First Prize</font> of the Asia and Pacific Mathematical Contest in Modeling</strong>.
 - *2020.04*  <strong><font color=red>First Prize</font> of Chinese Mathematics Competition</strong>.
 

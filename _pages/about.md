@@ -53,7 +53,7 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 [**arXiv**](https://arxiv.org/pdf/2306.08963) / [**Code**](https://github.com/Shengqi77/UG2_Turbulence_Mitigation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 <p style="margin-top: -11px"><i>6th  CVPRW UG2+ Challenge, Text Recognition through Turbulence, 2023.</i></p>
-<strong><font color=red>First Place</font></strong>
+<strong><font color=red>First Prize</font></strong>
 </div>
 </div>
 
@@ -66,79 +66,37 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 [**arXiv**](https://arxiv.org/pdf/2306.09379) / [**Code**](https://github.com/Shengqi77/UG2_Turbulence_Mitigation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 <p style="margin-top: -11px"><i>6th  CVPRW UG2+ Challenge, Code Recognition through Turbulence, 2023.</i></p>
-<strong><font color=red>First Place</font></strong>
+<strong><font color=red>First Prize</font></strong>
 </div>
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2023</div><img src='images/sim2word.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Sim2Word: Explaining Similarity with Representative Attribute Words via Counterfactual Explanations](https://dl.acm.org/doi/abs/10.1145/3563039)
-**Ruoyu Chen**, Jingzhi Li, Hua Zhang, Changchong Sheng, Li Liu, and Xiaochun Cao
-
-[**Code**](https://github.com/RuoyuChen10/Sim2Word) / [**Paper**](https://dl.acm.org/doi/abs/10.1145/3563039) / [**Poster**](https://ruoyuchen10.github.io/slide/Sim2Word_TOMMCAP2022.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-ACM Transactions on Multimedia Computing, Communications, and Applications,  
-<font color=purple>Impact factor: 5.1</font>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Poultry Science 2023</div><img src='images/duck.gif' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-[Online Estimating Weight of White Pekin Duck Carcass by Computer Vision](https://doi.org/10.1016/j.psj.2022.102348)
-
-**Ruoyu Chen**, Yuliang Zhao, Yongliang Yang, Shuyu Wang, Lianjiang Li, Xiaopeng Sha, Lianqing Liu, Guanglie Zhang and Wen Jung Li
-
-[**Code**](https://github.com/RuoyuChen10/Image_weighing) / [**Paper**](https://doi.org/10.1016/j.psj.2022.102348) / [**Poster**](https://ruoyuchen10.github.io/slide/Image_Weighing_PoultrySci.2022.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-Poultry Science (Top Journal in Agricultural and Biological Sciences),  
-<font color=purple>Impact factor: 4.4</font>
-</div>
-</div>
-
-- Identity-Preserving Face Anonymization via Adaptively Facial Attributes Obfuscation,  
-Jingzhi Li, Lutong Han, **Ruoyu Chen**, Hua Zhang, Bing Han, Lili Wang, and Xiaochun Cao, **ACM MM 2021**, <strong><font color=red>Oral</font></strong>,  
-[**Code**](https://github.com/RuoyuChen10/Facial_Attributes_Obfuscation) / [**Paper**](https://dl.acm.org/doi/abs/10.1145/3474085.3475367)
-
-- More papers are being submitted, or please visit my [Google Scholar](https://scholar.google.com/citations?user=rvxqCZIAAAAJ&hl) to view all papers.
 
 # 🎖 Honors and Awards
-- *2020.12* **China National Scholarship**, Ministry of Education of the People’s Republic of China (<strong><font color=red>Top 1.5%</font></strong>), NEU.
-- *2019.12* **China National Scholarship**, Ministry of Education of the People’s Republic of China (<strong><font color=red>Top 1.5%</font></strong>), NEU.
-- *2018.12* **China National Scholarship**, Ministry of Education of the People’s Republic of China (<strong><font color=red>Top 1.5%</font></strong>), NEU.
-
+- *2024.06* <strong><font color=red>First Prize</font> of the track 'Atmospheric Turbulence Mitigation' in the CVPR 2024 UG2+ Challenge</strong>.
+- *2023.06* <strong> <font color=red>First Prize</font> of the track 'Atmospheric Turbulence Mitigation' in the CVPR 2023 UG2+ Challenge</strong>.
+- *2020.04*  <strong><font color=red>First Prize</font> of the Asia and Pacific Mathematical Contest in Modeling</strong>.
+- *2020.04*  <strong><font color=red>First Prize</font> of Chinese Mathematics Competition</strong>.
 
 # 📖 Educations
-- *2021.09 - 2026.06 (excepted)*,  
-School of Cyberspace Security, University of Chinese Academy of Sciences, China.  
-Ph.D. Candidate
-- *2017.09 - 2021.06*,  
-School of Control Engineering, Northeastern University, China.  
+- *2022.09 - 2025.06 (excepted)*,  
+Huazhong University of Science and Technology, China.  
+M.S. Candidate
+- *2018.09 - 2022.06*,  
+Zhengzhou University, China.  
 Bachelor of Engineering  
-Ranking: 2/119
+Ranking: 4/88
 
-# 🎤 Talking & Teaching
-- *2024.6.27* Share a talk with **Tokyo Institute of Technology** online: [Interpretation of the Foundation Model: Concepts, Challenges, and Applications](https://ruoyuchen10.github.io/slide/Ruoyu_Chen_UCAS-foundation_model_interpretation.pdf)
-- *2024.5.10* Give an **oral presentation** in Vienna at ICLR 24 conference ([**Slide**](https://iclr.cc/media/iclr-2024/Slides/19733.pdf))
-- *2024.2.28* Share a ICLR 24 paper "[Less is More: Fewer Interpretable Region via Submodular Subset Selection](https://ruoyuchen10.github.io/slide/AITime_less-is-more.pdf)" at **AI Time**
-- *2023.12.26* Taught the undergraduate course "[Explainable Artificial Intelligence](https://ruoyuchen10.github.io/talk/Ruoyu_Chen-Teaching-XAI_SYSU.pdf)" at **Shenzhen Campus of Sun Yat-sen University**
-- *2023.10.20* Share a technical review "[Survey on the interpretability of foundation models](https://ruoyuchen10.github.io/talk/Ruoyu_Chen-Interpretation_of_foundation_model.pdf)" at **Huawei**
 
 # 💬 Professional Service
 
 ### Journal Reviewer
 
-- [IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) x8
-- [IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754) x2
+- [IEEE Transactions on Computational Imaging (TCI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852)
+- [IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 
 ### Conference Reviewer
 
-- CVPR 23, 24
-- ICLR 24
-- NeurIPS 23, 24
-- ICML 23, 24
-- ICCV 23
-- ECCV 22, 24
+- CVPR 24
+- ECCV 24
+- ACMMM 24

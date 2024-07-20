@@ -23,6 +23,9 @@ I am open for collaborations in research. I am also actively looking for collabo
 
 
 # 🔥 News
+      <li><span style="color:Red">2024.07</span>. Our work for long-range turbulence mitigation with a large-scale benchmark has been accepted by <strong><i>ECCV'24</i></strong>.</li>
+      <li><span style="color:Red">2024.06</span>. We have won <strong><i>1st place</i></strong> in the track 'Atmospheric Turbulence Mitigation' in the <strong><i>CVPR'24 7th UG2+ Challenge</i></strong>.</li>
+      <li><span style="color:Red">2023.06</span>. We have won <strong><i>1st place</i></strong> in the track 'Atmospheric Turbulence Mitigation' in the <strong><i>CVPR'23 6th UG2+ Challenge</i></strong>.</li>
 - *2024.01.16*: 🎉🎉 One paper is accepted by **ICLR Oral**! 
 - *2023.05*: Created a new home page. 
 

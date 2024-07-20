@@ -30,16 +30,15 @@ I am open for collaborations in research. I am also actively looking for collabo
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/survey_object_detection_in_open_env.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/2024ECCV.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Object Detectors in the Open Environment: Challenges, Solutions, and Outlook](https://arxiv.org/abs/2403.16271)
+[Long-range Turbulence Mitigation: A Large-scale Dataset and A Coarse-to-fine Framework](https://arxiv.org/pdf/2407.08377)
 
-Siyuan Liang, Wei Wang$^\dagger$, **Ruoyu Chen$^{\dagger}$**, Aishan Liu, Boxi Wu, Ee-Chien Chang, Xiaochun Cao, and Dacheng Tao ($\dagger$: Equal contribution)
+<strong>Shengqi Xu</strong>, Run Sun, Yi Chang*, Shuning Cao, Xueyao Xiao, Luxin Yan
 
-[**Paper**](https://arxiv.org/abs/2403.16271) / [**Project**](https://github.com/LiangSiyuan21/OEOD_Survey) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/pdf/2407.08377) / [**Project**](https://shengqi77.github.io/RLR-AT.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-Preprint 2024,  
-<strong><font color=blue>Survey paper</font></strong>
+  <p style="margin-top: -11px"><i>European Conference on Computer Vision (<strong> ECCV </strong>), 2024.</i></p>
 </div>
 </div>
 

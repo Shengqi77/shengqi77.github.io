@@ -43,7 +43,7 @@ I am open for collaborations in research. I am also actively looking for collabo
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW UG2+ Challenge</div><img src='images/2023Text.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW UG2+ Challenge 2023</div><img src='images/2023Text.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [1st Solution Places for CVPR 2023 UG2+ Challenge Track 2.1-
 Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.08963)
@@ -58,7 +58,7 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW UG2+ Challenge</div><img src='images/2023Target.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW UG2+ Challenge 2023 </div><img src='images/2023Target.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [1st Solution Places for CVPR 2023 UG2+ Challenge Track 2.2-Coded Target Restoration through Atmospheric Turbulence](https://arxiv.org/pdf/2306.09379)
 

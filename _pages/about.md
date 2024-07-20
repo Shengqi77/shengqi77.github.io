@@ -52,8 +52,8 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 
 [**arXiv**](https://arxiv.org/pdf/2306.08963) / [**Code**](https://github.com/Shengqi77/UG2_Turbulence_Mitigation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-<p style="margin-top: -11px"><i>6th  CVPRW UG2+ Challenge, Text Recognition through Turbulence, 2023.</i></p>
-<strong><font color=red>First Prize</font></strong>
+<p style="margin-top: -11px"><i>6th  CVPRW UG2+ Challenge,  2023.</i></p>
+<strong><font color=red>First Prize</font> in the Track of Text Recognition through Turbulence</strong>
 </div>
 </div>
 
@@ -66,8 +66,8 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 
 [**arXiv**](https://arxiv.org/pdf/2306.09379) / [**Code**](https://github.com/Shengqi77/UG2_Turbulence_Mitigation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-<p style="margin-top: -11px"><i>6th  CVPRW UG2+ Challenge, Code Recognition through Turbulence, 2023.</i></p>
-<strong><font color=red>First Prize</font></strong>
+<p style="margin-top: -11px"><i>6th  CVPRW UG2+ Challenge, 2023.</i></p>
+<strong><font color=red>First Prize</font> in the Track of Code Recognition through Turbulence </strong>
 </div>
 </div>
 

@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ruoyu Chen"
-description              : "Ph.D. Candidate, University of Chinese Academy of Sciences, China"
-repository               : "RuoyuChen10/Ruoyuchen10.github.io"
+title                    : "Shengqi Xu"
+description              : "M.S. Candidate, University of Chinese Academy of Sciences, China"
+repository               : "https://shengqi77.github.io/shengqi.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ruoyu Chen"
-  avatar           : "images/ruoyu.jpg"
+  name             : "Shengqi"
+  avatar           : "images/XSQ.png"
   bio              : "Major in Computer Application Technology, Computer Vision"
-  location         : "Beijing, China"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=rvxqCZIAAAAJ&hl"
-  email            : "chenruoyu@iie.ac.cn"
-  researchgate     : "https://www.researchgate.net/profile/Ruoyu-Chen-19" # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=yV2PwvUAAAAJ&hl=zh-CN&oi=sra"
+  email            : "shengqi@hust.edu.cn"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,21 +37,21 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "RuoyuChen10" # e.g., "github username"
+  github           : "Shengqi77" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/18/6696-1.html" 
+  dblp             : 
   orcid            : "https://orcid.org/0000-0001-7630-7154" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "RuoyuChen20"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

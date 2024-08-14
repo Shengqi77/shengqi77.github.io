@@ -76,6 +76,7 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 # 🎖 Honors and Awards
 - *2024.06* <strong><font color=red>First Place</font> of the track 'Atmospheric Turbulence Mitigation' in the CVPR 2024 UG2+ Challenge</strong>.
 - *2023.06* <strong> <font color=red>First Place</font> of the track 'Atmospheric Turbulence Mitigation' in the CVPR 2023 UG2+ Challenge</strong>.
+- *2023.10* <strong> <font color=red>Outstanding Student Paper Award</font>  at the 6th Conference on Atmospheric and Adaptive Optics</strong>.
 - *2020.04*  <strong><font color=red>First Prize</font> of the Asia and Pacific Mathematical Contest in Modeling</strong>.
 - *2020.04*  <strong><font color=red>First Prize</font> of Chinese Mathematics Competition</strong>.
 

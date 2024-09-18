@@ -81,7 +81,7 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 - *2020.04*  <strong><font color=red>First Prize</font> of Chinese Mathematics Competition</strong>.
 
 # 📖 Educations
-- *2022.09 - 2025.06 (excepted)*,  
+- *2022.09 - 2025.06 (expected)*,  
 Huazhong University of Science and Technology, China.  
 M.S. Candidate
 - *2018.09 - 2022.06*,  

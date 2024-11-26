@@ -71,7 +71,16 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 Under Review </div><img src='images/deblur.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Handling the Model and Kernel Uncertainty for Shaken and Partially Saturated Images Deblurring]
+  
+Shuning Cao, Yi Chang*, <strong>Shengqi Xu</strong>, Houzhang Fang, Liqun Chen, Yunshu Cai, Jian Ding, Luxin Yan
 
+
+<p style="margin-top: -11px"><i>The Association for the Advancement of Artificial Intelligence (<strong> AAAI </strong>), Under Review, 2025.</i></p>
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.10* <strong><font color=red>National Scholarship</font> (Highest Honor: Top 0.2% Nationwide)</strong>.

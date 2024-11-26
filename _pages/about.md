@@ -73,7 +73,7 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 Under Review </div><img src='images/deblur.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Handling the Model and Kernel Uncertainty for Shaken and Partially Saturated Images Deblurring]
+Handling the Model and Kernel Uncertainty for Shaken and Partially Saturated Images Deblurring
   
 Shuning Cao, Yi Chang*, <strong>Shengqi Xu</strong>, Houzhang Fang, Liqun Chen, Yunshu Cai, Jian Ding, Luxin Yan
 

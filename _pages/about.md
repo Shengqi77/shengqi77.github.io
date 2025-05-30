@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a master student (expected to graduate in 2025) of Huazhong University of Science and Technology (HUST), advised by Prof.[Luxin Yan](http://faculty.hust.edu.cn/yanluxin/zh_CN/lwcg/1374876/content/105157.htm). Before that, I received the B.E. degree from Zhengzhou University (ZZU) in 2022. My research interests are in computer vision, with a particular focus on **Imaging through Turbulence**, **Video Restoration** and **Multimodal Generation** . 
+I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a master student (expected to graduate in 2025) of Huazhong University of Science and Technology (HUST), supervised by Prof.[Luxin Yan](http://faculty.hust.edu.cn/yanluxin/zh_CN/lwcg/1374876/content/105157.htm). Before that, I received the B.E. degree from Zhengzhou University (ZZU) in 2022. My research interests are in computer vision, with a particular focus on  **Visual Language Models** and **Computational Imaging**. 
 
-I am open for collaborations in research. I am also actively looking for collaborators, especially in the fields of **Video Restoration** and **Multimodal Large Language Models**. Please feel free to contact me.
 
 
 # 🔥 News

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shengqi Xu"
-description              : "M.S. Candidate,  Huazhong University of Science and Technology, China"
+description              : "Incoming Ph.D,  Fudan University, China"
 repository               : "https://shengqi77.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shengqi Xu"
   avatar           : "images/life_gbl2.png"
-  bio              : "Major in Computer Application Technology, Computer Vision"
-  location         : "Wuhan, China"
+  bio              : "Major in Artifical Intelligence, Computer Vision"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=yV2PwvUAAAAJ&hl=zh-CN&oi=sra"

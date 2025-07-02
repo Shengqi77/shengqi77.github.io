@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, an incoming Ph.D at [Fudan Vision and Learning Laboratory](https://fvl.fudan.edu.cn/main.htm), Fudan University (FDU), under the supervision of [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/). Prior to this, I received the Master’s degree from Huazhong University of Science and Technology (HUST), supervised by [Prof. Luxin Yan](http://faculty.hust.edu.cn/yanluxin/zh_CN/lwcg/1374876/content/105157.htm). I received the Bachelor’s degree from Zhengzhou University (ZZU) in 2022. 
-My current research focuses on Vision Language Models. My previous research focuses on Imaging through Atmospheric Turbulence.
+My current research focuses on **Vision Language Models**. My previous research focuses on **Imaging through Atmospheric Turbulence**.
 
 
 

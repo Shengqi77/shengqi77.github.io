@@ -81,9 +81,9 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 - *2020.04*  <strong><font color=red>First Prize</font> of Chinese Mathematics Competition</strong>.
 
 # 📖 Educations
-- *2025.06 - Now*,  
+- *2025.09 - Now*,  
 Fudan University, China.
-Incoming Ph.D. Candidate 
+Ph.D. Candidate 
 - *2022.09 - 2025.06*,  
 Huazhong University of Science and Technology, China.  
 Master of Engineering 

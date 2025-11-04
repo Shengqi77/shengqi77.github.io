@@ -29,13 +29,29 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 
 # 📝 Selected Publications 
 
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Preferthinker.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[PreferThinker: Reasoning-based Personalized Image Preference Assessment](https://arxiv.org/pdf/2511.00609v1)
+
+<strong>Shengqi Xu</strong>, Xinpeng Zhou, Yabo Zhang, Ming Liu, Tao Liang, Tianyu Zhang, Yalong Bai, Zuxuan Wu, Wangmeng Zuo*
+
+[**arXiv**](https://arxiv.org/pdf/2511.00609v1) / [**Project**](https://shengqi77.github.io/RLR-AT.github.io/) / [**Dataset**](https://drive.google.com/file/d/14z0CvHcEVhkxWu5U7nq64xmB8Apqnx54/view?usp=drive_link) / [**Code**](https://github.com/Shengqi77/RLR-AT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/2024ECCV.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Long-range Turbulence Mitigation: A Large-scale Dataset and A Coarse-to-fine Framework](https://arxiv.org/pdf/2407.08377)
 
 <strong>Shengqi Xu</strong>, Run Sun, Yi Chang*, Shuning Cao, Xueyao Xiao, Luxin Yan
 
-[**arXiv**](https://arxiv.org/pdf/2407.08377) / [**Project**](https://shengqi77.github.io/RLR-AT.github.io/) / [**Dataset**](https://drive.google.com/file/d/14z0CvHcEVhkxWu5U7nq64xmB8Apqnx54/view?usp=drive_link) / [**Code**](https://github.com/Shengqi77/RLR-AT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**arXiv**](https://arxiv.org/pdf/2407.08377) / [**Project**](https://shengqi77.github.io/) / [**Dataset**](https://shengqi77.github.io/) / [**Code**](https://shengqi77.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
   <p style="margin-top: -11px"><i>European Conference on Computer Vision (<strong> ECCV </strong>), 2024.</i></p>
 </div>

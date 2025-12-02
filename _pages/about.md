@@ -38,7 +38,7 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 
 <strong>Shengqi Xu</strong>, Xinpeng Zhou, Yabo Zhang, Ming Liu, Tao Liang, Tianyu Zhang, Yalong Bai, Zuxuan Wu, Wangmeng Zuo*
 
-[**arXiv**](https://arxiv.org/pdf/2511.00609v1) / [**Project**](https://shengqi77.github.io/RLR-AT.github.io/) / [**Dataset**](https://drive.google.com/file/d/14z0CvHcEVhkxWu5U7nq64xmB8Apqnx54/view?usp=drive_link) / [**Code**](https://github.com/Shengqi77/RLR-AT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**arXiv**](https://arxiv.org/pdf/2511.00609v1) / [**Project**](https://3038543815.github.io/preferthinker.github.io/) / [**Dataset**](https://shengqi77.github.io/) / [**Code**](https://shengqi77.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>

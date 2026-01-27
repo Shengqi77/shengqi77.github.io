@@ -22,7 +22,7 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 
 
 # 🔥 News
-
+- *2026.01*: 🎉Our work for reasoning-based personalized image preference assessment has been accepted by <strong><i>ICLR'26</i></strong>! 
 - *2024.07*: 🎉Our work for long-range turbulence mitigation with a large-scale benchmark has been accepted by <strong><i>ECCV'24</i></strong>! 
 - *2024.06*: 🎉We have won <strong><i>1st place</i></strong> in the track 'Atmospheric Turbulence Mitigation' in the <strong><i>CVPR'24 7th UG2+ Challenge</i></strong>!
 - *2023.06*: 🎉We have won <strong><i>1st place</i></strong> in the track 'Atmospheric Turbulence Mitigation' in the <strong><i>CVPR'23 6th UG2+ Challenge</i></strong>!
@@ -32,7 +32,7 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Preferthinker.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/Preferthinker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [PreferThinker: Reasoning-based Personalized Image Preference Assessment](https://arxiv.org/pdf/2511.00609v1)
 

@@ -40,6 +40,8 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 
 [**arXiv**](https://arxiv.org/pdf/2511.00609v1) / [**Project**](https://3038543815.github.io/preferthinker.github.io/) / [**Dataset**](https://shengqi77.github.io/) / [**Code**](https://shengqi77.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
+  <p style="margin-top: -11px"><i>International Conference on Learning Representations (<strong> ICLR </strong>), 2026.</i></p>
+
 </div>
 </div>
 

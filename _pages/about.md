@@ -22,6 +22,7 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 
 
 # 🔥 News
+- *2026.06*: 🎉Our work for Visuo-Tactile Manipulation with Tactile Motion Correlation has been accepted by <strong><i>ECCV'26</i></strong>! 
 - *2026.01*: 🎉Our work for reasoning-based personalized image preference assessment has been accepted by <strong><i>ICLR'26</i></strong>! 
 - *2024.07*: 🎉Our work for long-range turbulence mitigation with a large-scale benchmark has been accepted by <strong><i>ECCV'24</i></strong>! 
 - *2024.06*: 🎉We have won <strong><i>1st place</i></strong> in the track 'Atmospheric Turbulence Mitigation' in the <strong><i>CVPR'24 7th UG2+ Challenge</i></strong>!

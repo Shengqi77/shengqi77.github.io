@@ -39,7 +39,7 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 
 <strong>Shengqi Xu</strong>, Guojin Zhong, Yang Liu, Fanjie Wang, Hu Luo, Hanyu Zhou, Weiyao Zhang, Ziyi Ye, Zuxuan Wu*, Yu-Gang Jiang*
 
-[**arXiv**](https://shengqi77.github.io/) / [**Project**](https://shengqi77.github.io/Seeing-Touch-from-Motion/)  / [**Code**](https://shengqi77.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**arXiv**](https://arxiv.org/pdf/2606.29941) / [**Project**](https://shengqi77.github.io/Seeing-Touch-from-Motion/)  / [**Code**](https://shengqi77.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
   <p style="margin-top: -11px"><i>European Conference on Computer Vision (<strong> ECCV </strong>), 2026.</i></p>
 

@@ -51,7 +51,7 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 <div class='paper-box-text' markdown="1">
 [𝒩<sub>0</sub>-VTLA:  Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens](https://research.neoteai.com/assets/n0-vtla-report.pdf)
 
-<strong>  NeoteAI Team & Fudan TEAI Team </strong>
+<strong>  NeoteAI Team and Fudan TEAI Team </strong>
 
 [**Paper**](https://research.neoteai.com/assets/n0-vtla-report.pdf) / [**Project**](https://research.neoteai.com/n0-vtla/)  / [**Code**](https://github.com/neoteai/N0-VTLA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -64,7 +64,7 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 <div class='paper-box-text' markdown="1">
 [𝒩<sub>0</sub>−TWAM: Scaling Tactile-Native World Action Model for Contact-Rich Manipulation](https://research.neoteai.com/assets/n0-twam-report.pdf)
 
-<strong>  NeoteAI Team & Fudan TEAI Team </strong>
+<strong>  NeoteAI Team and Fudan TEAI Team </strong>
 
 [**Paper**](https://research.neoteai.com/assets/n0-twam-report.pdf) / [**Project**](https://research.neoteai.com/n0-twam/)  / [**Code**](https://github.com/neoteai/N0-TWAM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 

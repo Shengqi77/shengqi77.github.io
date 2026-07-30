@@ -38,7 +38,7 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 <div class='paper-box-text' markdown="1">
 [𝒩<sub>0</sub>-Foundation: Towards the Age of Tactile Intelligence](https://research.neoteai.com/assets/n0-foundation-report.pdf)
 
-<strong>  NeoteAI Team & Fudan TEAI Team </strong>
+<strong>  NeoteAI Team and Fudan TEAI Team </strong>
 
 [**Paper**](https://research.neoteai.com/assets/n0-foundation-report.pdf) / [**Project**](https://research.neoteai.com/n0-foundation/) / [**Dataset**](https://huggingface.co/datasets/NeoteAIEmbodied/OpenNeoData) / [**Code**](https://github.com/neoteai/N0-Foundation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 

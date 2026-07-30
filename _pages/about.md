@@ -17,14 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at [Fudan Vision and Learning Laboratory](https://fvl.fudan.edu.cn/main.htm), Fudan University (FDU), under the supervision of [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/). Prior to this, I received the Master’s degree from Huazhong University of Science and Technology (HUST), supervised by [Prof. Luxin Yan](http://faculty.hust.edu.cn/yanluxin/zh_CN/lwcg/1374876/content/105157.htm). I was fortunate to be mentored by [Prof. Wangmeng Zuo](https://homepage.hit.edu.cn/wangmengzuo). My current research focuses on **Embodied AI** and **Vision Language Models**. My previous research focuses on **Imaging through Atmospheric Turbulence**.
+I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at [Fudan Vision and Learning Laboratory](https://fvl.fudan.edu.cn/main.htm), Fudan University (FDU), under the supervision of [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/). Prior to this, I received the Master’s degree from Huazhong University of Science and Technology (HUST), supervised by [Prof. Luxin Yan](http://faculty.hust.edu.cn/yanluxin/zh_CN/lwcg/1374876/content/105157.htm). I was fortunate to be mentored by [Prof. Wangmeng Zuo](https://homepage.hit.edu.cn/wangmengzuo). My current research focuses on **Embodied AI** and **Tactile-driven Manipulation**. My previous research focuses on **Imaging through Atmospheric Turbulence**.
 
 
 
 # 🔥 News
-- *2026.06*: 🎉Our work for Visuo-Tactile Manipulation with Tactile Motion Correlation has been accepted by <strong><i>ECCV'26</i></strong>! 
-- *2026.01*: 🎉Our work for reasoning-based personalized image preference assessment has been accepted by <strong><i>ICLR'26</i></strong>! 
-- *2024.07*: 🎉Our work for long-range turbulence mitigation with a large-scale benchmark has been accepted by <strong><i>ECCV'24</i></strong>! 
+- *2026.07*: We introduce [N<sub>0/<sub>-Foundation](https://research.neoteai.com/n0-foundation/), a tactile-centric foundation for embodied manipulation spanning infrastructure, data, representation learning, and benchmarks.
+- *2026.07*: We introduce [N<sub>0/<sub>-VTLA](https://research.neoteai.com/n0-vtla/), a vision-tactile-language-action foundation model with latent tactile tokens.
+- *2026.07*: We introduce [N<sub>0/<sub>-TWAM](https://research.neoteai.com/n0-twam/), a tactile-native world-action model for contact-rich manipulation.
+- *2026.06*: 🎉Our work [ViTacMotor](https://shengqi77.github.io/Seeing-Touch-from-Motion/) for Visuo-Tactile Manipulation with Tactile Motion Correlation has been accepted by <strong><i>ECCV'26</i></strong>! 
+- *2026.01*: 🎉Our work [PreferThinker](https://3038543815.github.io/preferthinker.github.io/) for reasoning-based personalized image preference assessment has been accepted by <strong><i>ICLR'26</i></strong>! 
+- *2024.07*: 🎉Our work [CDSP](https://shengqi77.github.io/RLR-AT.github.io/) for long-range turbulence mitigation with a large-scale benchmark has been accepted by <strong><i>ECCV'24</i></strong>! 
 - *2024.06*: 🎉We have won <strong><i>1st place</i></strong> in the track 'Atmospheric Turbulence Mitigation' in the <strong><i>CVPR'24 7th UG2+ Challenge</i></strong>!
 - *2023.06*: 🎉We have won <strong><i>1st place</i></strong> in the track 'Atmospheric Turbulence Mitigation' in the <strong><i>CVPR'23 6th UG2+ Challenge</i></strong>!
 

@@ -22,9 +22,9 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 
 
 # 🔥 News
-- *2026.07*: 🎉We introduce [$\mathcal{N}_0$-Foundation](https://research.neoteai.com/n0-foundation/), a tactile-centric foundation for embodied manipulation spanning infrastructure, data, representation learning, and benchmarks.
-- *2026.07*: 🎉We introduce [N<sub>0</sub>-VTLA](https://research.neoteai.com/n0-vtla/), a vision-tactile-language-action foundation model with latent tactile tokens.
-- *2026.07*: 🎉We introduce [N<sub>0</sub>-TWAM](https://research.neoteai.com/n0-twam/), a tactile-native world-action model for contact-rich manipulation.
+- *2026.07*: 🎉We introduce [𝒩<sub>0</sub>-Foundation](https://research.neoteai.com/n0-foundation/), a tactile-centric foundation for embodied manipulation spanning infrastructure, data, representation learning, and benchmarks.
+- *2026.07*: 🎉We introduce [𝒩<sub>0</sub>-VTLA](https://research.neoteai.com/n0-vtla/), a vision-tactile-language-action foundation model with latent tactile tokens.
+- *2026.07*: 🎉We introduce [𝒩<sub>0</sub>-TWAM](https://research.neoteai.com/n0-twam/), a tactile-native world-action model for contact-rich manipulation.
 - *2026.06*: 🎉Our work [ViTacMotor](https://shengqi77.github.io/Seeing-Touch-from-Motion/) for Visuo-Tactile Manipulation with Tactile Motion Correlation has been accepted by <strong><i>ECCV'26</i></strong>! 
 - *2026.01*: 🎉Our work [PreferThinker](https://3038543815.github.io/preferthinker.github.io/) for reasoning-based personalized image preference assessment has been accepted by <strong><i>ICLR'26</i></strong>! 
 - *2024.07*: 🎉Our work [CDSP](https://shengqi77.github.io/RLR-AT.github.io/) for long-range turbulence mitigation with a large-scale benchmark has been accepted by <strong><i>ECCV'24</i></strong>! 
@@ -36,18 +36,18 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/ECCV 2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[N<sub>0</sub>-Foundation: Towards the Age of Tactile Intelligence](https://research.neoteai.com/assets/n0-foundation-report.pdf)
+[𝒩<sub>0</sub>-Foundation: Towards the Age of Tactile Intelligence](https://research.neoteai.com/assets/n0-foundation-report.pdf)
 
 NeoteAI Team, Fudan TEAI Team
 
-[**Paper**](https://research.neoteai.com/assets/n0-foundation-report.pdf) / [**Project**](https://shengqi77.github.io/Seeing-Touch-from-Motion/)  / [**Code**](https://github.com/Shengqi77/ViTacMotor) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://research.neoteai.com/assets/n0-foundation-report.pdf) / [**Project**](https://research.neoteai.com/n0-foundation/) / [**Dataset**](https://huggingface.co/datasets/NeoteAIEmbodied/OpenNeoData) / [**Code**](https://github.com/neoteai/N0-Foundation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-  <p style="margin-top: -11px"><i>European Conference on Computer Vision (<strong> ECCV </strong>), 2026.</i></p>
+  <p style="margin-top: -11px"><i> <strong> Technical Report </strong>, 2026.</i></p>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/ECCV 2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Technical Report 2026</div><img src='images/ECCV 2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Seeing Touch from Motion: A Unified Modality-Aware Visuo-Tactile Policy with Tactile Motion Correlation](https://shengqi77.github.io/)
 

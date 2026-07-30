@@ -22,9 +22,9 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 
 
 # 🔥 News
-- *2026.07*: We introduce [N<sub>0/<sub>-Foundation](https://research.neoteai.com/n0-foundation/), a tactile-centric foundation for embodied manipulation spanning infrastructure, data, representation learning, and benchmarks.
-- *2026.07*: We introduce [N<sub>0/<sub>-VTLA](https://research.neoteai.com/n0-vtla/), a vision-tactile-language-action foundation model with latent tactile tokens.
-- *2026.07*: We introduce [N<sub>0/<sub>-TWAM](https://research.neoteai.com/n0-twam/), a tactile-native world-action model for contact-rich manipulation.
+- *2026.07*: 🎉We introduce [N<sub>0</sub>-Foundation](https://research.neoteai.com/n0-foundation/), a tactile-centric foundation for embodied manipulation spanning infrastructure, data, representation learning, and benchmarks.
+- *2026.07*: 🎉We introduce [N<sub>0</sub>-VTLA](https://research.neoteai.com/n0-vtla/), a vision-tactile-language-action foundation model with latent tactile tokens.
+- *2026.07*: 🎉We introduce [N<sub>0</sub>-TWAM](https://research.neoteai.com/n0-twam/), a tactile-native world-action model for contact-rich manipulation.
 - *2026.06*: 🎉Our work [ViTacMotor](https://shengqi77.github.io/Seeing-Touch-from-Motion/) for Visuo-Tactile Manipulation with Tactile Motion Correlation has been accepted by <strong><i>ECCV'26</i></strong>! 
 - *2026.01*: 🎉Our work [PreferThinker](https://3038543815.github.io/preferthinker.github.io/) for reasoning-based personalized image preference assessment has been accepted by <strong><i>ICLR'26</i></strong>! 
 - *2024.07*: 🎉Our work [CDSP](https://shengqi77.github.io/RLR-AT.github.io/) for long-range turbulence mitigation with a large-scale benchmark has been accepted by <strong><i>ECCV'24</i></strong>! 

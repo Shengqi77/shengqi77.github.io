@@ -48,6 +48,8 @@ Previously, I received my master's degree from Huazhong University of Science an
 
 # Publications
 
+<p class="section-lead"><sup>*</sup> Corresponding author.</p>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL &middot; 2026</div><img src='images/thinkingvla.png' alt="ThinkingVLA: interleaved vision and language reasoning for robotic manipulation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation](https://arxiv.org/pdf/2606.17937)
@@ -65,7 +67,7 @@ Tianyi Lu, Hui Zhang, Zijie Diao, Junke Wang, <strong class="author-self">Shengq
 <div class='paper-box-text' markdown="1">
 [Seeing Touch from Motion: A Unified Modality-Aware Visuo-Tactile Policy with Tactile Motion Correlation](https://arxiv.org/pdf/2606.29941)
 
-<strong class="author-self">Shengqi Xu</strong>, Guojin Zhong, Yang Liu, Fanjie Wang, Hu Luo, Hanyu Zhou, Weiyao Zhang, Ziyi Ye, Zuxuan Wu*, Yu-Gang Jiang*
+<strong class="author-self">Shengqi Xu</strong>, Guojin Zhong, Yang Liu, Fanjie Wang, Hu Luo, Hanyu Zhou, Weiyao Zhang, Ziyi Ye, Zuxuan Wu<sup>*</sup>, Yu-Gang Jiang<sup>*</sup>
 
 <p class="paper-links"><a href="https://arxiv.org/pdf/2606.29941">arXiv</a><a href="https://shengqi77.github.io/Seeing-Touch-from-Motion/">Project</a><a href="https://github.com/Shengqi77/ViTacMotor">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
 
@@ -76,9 +78,9 @@ Tianyi Lu, Hui Zhang, Zijie Diao, Junke Wang, <strong class="author-self">Shengq
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR · 2026</div><img src='images/Preferthinker.png' alt="PreferThinker paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[PreferThinker: Reasoning-based Personalized Image Preference Assessment](https://arxiv.org/pdf/2511.00609v1)
+[PreferThinker: Reasoning-based Personalized Image Preference Assessment](https://arxiv.org/pdf/2511.00609)
 
-<strong class="author-self">Shengqi Xu</strong>, Xinpeng Zhou, Yabo Zhang, Ming Liu, Tao Liang, Tianyu Zhang, Yalong Bai, Zuxuan Wu, Wangmeng Zuo*
+<strong class="author-self">Shengqi Xu</strong>, Xinpeng Zhou, Yabo Zhang, Ming Liu<sup>*</sup>, Tao Liang, Tianyu Zhang, Yalong Bai, Zuxuan Wu, Wangmeng Zuo
 
 <p class="paper-links"><a href="https://arxiv.org/pdf/2511.00609">arXiv</a><a href="https://3038543815.github.io/preferthinker.github.io/">Project</a><a href="https://shengqi77.github.io/">Dataset</a><a href="https://github.com/Shengqi77/PreferThinker">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
 
@@ -93,7 +95,7 @@ Tianyi Lu, Hui Zhang, Zijie Diao, Junke Wang, <strong class="author-self">Shengq
 <div class='paper-box-text' markdown="1">
 [Long-range Turbulence Mitigation: A Large-scale Dataset and A Coarse-to-fine Framework](https://arxiv.org/pdf/2407.08377)
 
-<strong class="author-self">Shengqi Xu</strong>, Run Sun, Yi Chang*, Shuning Cao, Xueyao Xiao, Luxin Yan
+<strong class="author-self">Shengqi Xu</strong>, Run Sun, Yi Chang<sup>*</sup>, Shuning Cao, Xueyao Xiao, Luxin Yan
 
 <p class="paper-links"><a href="https://arxiv.org/pdf/2407.08377">arXiv</a><a href="https://shengqi77.github.io/RLR-AT.github.io/">Project</a><a href="https://drive.google.com/file/d/14z0CvHcEVhkxWu5U7nq64xmB8Apqnx54/view">Dataset</a><a href="https://github.com/Shengqi77/Long-range-Turbulence-Mitigation">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
 
@@ -107,7 +109,7 @@ Tianyi Lu, Hui Zhang, Zijie Diao, Junke Wang, <strong class="author-self">Shengq
 [1st Solution Places for CVPR 2023 UG2+ Challenge Track 2.1-
 Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.08963)
 
-<strong class="author-self">Shengqi Xu</strong>, Xueyao Xiao, Shuning Cao, Yi Chang*, Luxin Yan
+<strong class="author-self">Shengqi Xu</strong>, Xueyao Xiao, Shuning Cao, Yi Chang<sup>*</sup>, Luxin Yan
 
 <p class="paper-links"><a href="https://arxiv.org/pdf/2306.08963">arXiv</a><a href="https://github.com/Shengqi77/UG2_Turbulence_Mitigation">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
 
@@ -121,7 +123,7 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 <div class='paper-box-text' markdown="1">
 [1st Solution Places for CVPR 2023 UG2+ Challenge Track 2.2-Coded Target Restoration through Atmospheric Turbulence](https://arxiv.org/pdf/2306.09379)
 
-<strong class="author-self">Shengqi Xu</strong>, Shuning Cao, Haoyue Liu, Xueyao Xiao, Yi Chang*, Luxin Yan
+<strong class="author-self">Shengqi Xu</strong>, Shuning Cao, Haoyue Liu, Xueyao Xiao, Yi Chang<sup>*</sup>, Luxin Yan
 
 <p class="paper-links"><a href="https://arxiv.org/pdf/2306.09379">arXiv</a><a href="https://github.com/Shengqi77/UG2_Turbulence_Mitigation">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
 

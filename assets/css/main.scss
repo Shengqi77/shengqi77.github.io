@@ -69,11 +69,20 @@
         img {
             display: block;
             width: 100%;
-            max-width: none;
-            aspect-ratio: 16 / 10;
-            object-fit: cover;
+            max-width: 100%;
+            height: auto;
+            object-fit: contain;
             border-radius: 11px;
             box-shadow: none;
+        }
+
+        // Keep labels outside the figure so they never obscure its content.
+        .badge {
+            position: static;
+            display: inline-block;
+            max-width: 100%;
+            box-sizing: border-box;
+            margin-bottom: .65rem;
         }
     }
     

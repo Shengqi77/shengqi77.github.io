@@ -21,7 +21,7 @@ redirect_from:
 <p class="profile-eyebrow">FUDAN UNIVERSITY &middot; EMBODIED AI</p>
 <h1 class="profile-heading">Shengqi Xu <span class="profile-name-cn">&#35768;&#26207;&#26071;</span></h1>
 
-I am a Ph.D. student at the [Fudan Vision and Learning Laboratory](https://fvl.fudan.edu.cn/main.htm), Fudan University, advised by [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/). My research focuses on **embodied AI and tactile-driven manipulation**.
+I am a second-year Ph.D. student at the [Fudan Vision and Learning Laboratory](https://fvl.fudan.edu.cn/main.htm), Fudan University, advised by [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/). My research focuses on **embodied AI and tactile-driven manipulation**.
 
 Previously, I received my master's degree from Huazhong University of Science and Technology, supervised by [Prof. Luxin Yan](http://faculty.hust.edu.cn/yanluxin/zh_CN/lwcg/1374876/content/105157.htm). I was also fortunate to be mentored by [Prof. Wangmeng Zuo](https://homepage.hit.edu.cn/wangmengzuo). My earlier research focused on imaging through atmospheric turbulence.
 

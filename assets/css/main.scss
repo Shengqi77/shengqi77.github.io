@@ -204,7 +204,7 @@ h1:before, .anchor:before {
 .page__content {
     color: #46515f;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    font-size: 16px;
+    font-size: 17px;
     line-height: 1.7;
 }
 .page__content h1, .page__content h2, .page__content h3 {
@@ -242,7 +242,7 @@ h1:before, .anchor:before {
 .profile-intro a:hover { text-decoration: underline; }
 .research-topics { display: flex; flex-wrap: wrap; gap: .45rem; margin-top: 1rem; }
 .research-topics span { padding: .2rem .65rem; border-radius: 5px; background: #f0f4f8; color: #405974; font-size: .78em; font-weight: 600; }
-.news-list { font-size: .9em; }
+.news-list { font-size: .96em; }
 .news-list ul { margin: 0; padding: 0; list-style: none; }
 .news-list li { position: relative; padding: .4rem 0 .4rem 5.5rem; margin: 0; line-height: 1.65; }
 .news-list li > em:first-child { position: absolute; left: 0; top: .4rem; font-style: normal; color: #718096; font-size: .92em; font-variant-numeric: tabular-nums; }
@@ -250,9 +250,9 @@ h1:before, .anchor:before {
 .news-list strong { color: #34465c; font-weight: 600; }
 .news-list strong i { font-style: normal; }
 .paper-box { line-height: 1.6; }
-.paper-box .paper-box-text { color: #66717f; font-size: .87em; }
+.paper-box .paper-box-text { color: #66717f; font-size: .95em; }
 .paper-box .paper-box-text > p { margin: 0 0 .65rem; }
-.paper-box .paper-box-text > p:first-child a:first-child { font-size: 1.16em; line-height: 1.45; }
+.paper-box .paper-box-text > p:first-child a:first-child { font-size: 1.1em; line-height: 1.45; }
 .paper-box .paper-box-text .author-self { color: #172b4d; font-weight: 800; }
 .paper-box .paper-box-text .paper-venue { font-size: .9em; color: #718096; margin: .15rem 0 0; }
 .paper-box .paper-venue i { font-style: normal; }
@@ -271,7 +271,7 @@ h1:before, .anchor:before {
 }
 .award-highlight { color: #355776; }
 @media (max-width: 600px) {
-    .page__content { font-size: 15px; }
+    .page__content { font-size: 16px; }
     .page__content h1.profile-heading { font-size: 1.9em; }
     .paper-box { padding: .9rem; }
     .news-list li { padding-left: 4.9rem; }

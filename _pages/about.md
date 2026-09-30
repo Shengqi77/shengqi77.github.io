@@ -25,7 +25,7 @@ I am a second-year Ph.D. student at the [Fudan Vision and Learning Laboratory](h
 
 Previously, I received my master's degree from Huazhong University of Science and Technology, supervised by [Prof. Luxin Yan](http://faculty.hust.edu.cn/yanluxin/zh_CN/lwcg/1374876/content/105157.htm). I was also fortunate to be mentored by [Prof. Wangmeng Zuo](https://homepage.hit.edu.cn/wangmengzuo). My earlier research focused on imaging through atmospheric turbulence.
 
-<div class="research-topics"><span>Embodied AI</span><span>Tactile Manipulation</span><span>Computational Imaging</span></div>
+<div class="research-topics"><span>Embodied AI</span><span>Tactile Manipulation</span></div>
 </div>
 
 # News

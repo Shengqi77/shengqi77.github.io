@@ -91,6 +91,11 @@
         max-width: 100%;
         order: 2;
 
+        .author-self {
+            color: #172b4d;
+            font-weight: 800;
+        }
+
         > p:first-child {
             margin-top: 0;
             margin-bottom: .65rem;

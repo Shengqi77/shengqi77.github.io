@@ -21,19 +21,33 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 
 
 
-# 🔥 News
-- *2026.07*: 🎉We introduce [𝒩<sub>0</sub>-Foundation](https://research.neoteai.com/n0-foundation/), a tactile-centric foundation for embodied manipulation spanning infrastructure, data, representation learning, and benchmarks.
-- *2026.07*: 🎉We introduce [𝒩<sub>0</sub>-VTLA](https://research.neoteai.com/n0-vtla/), a vision-tactile-language-action foundation model with latent tactile tokens.
-- *2026.07*: 🎉We introduce [𝒩<sub>0</sub>-TWAM](https://research.neoteai.com/n0-twam/), a tactile-native world-action model for contact-rich manipulation.
-- *2026.06*: 🎉Our work [ViTacMotor](https://shengqi77.github.io/Seeing-Touch-from-Motion/) for Visuo-Tactile Manipulation with Tactile Motion Correlation has been accepted by <strong><i>ECCV'26</i></strong>! 
-- *2026.01*: 🎉Our work [PreferThinker](https://3038543815.github.io/preferthinker.github.io/) for reasoning-based personalized image preference assessment has been accepted by <strong><i>ICLR'26</i></strong>! 
-- *2024.07*: 🎉Our work [CDSP](https://shengqi77.github.io/RLR-AT.github.io/) for long-range turbulence mitigation with a large-scale benchmark has been accepted by <strong><i>ECCV'24</i></strong>! 
-- *2024.06*: 🎉We have won <strong><i>1st place</i></strong> in the track 'Atmospheric Turbulence Mitigation' in the <strong><i>CVPR'24 7th UG2+ Challenge</i></strong>!
-- *2023.06*: 🎉We have won <strong><i>1st place</i></strong> in the track 'Atmospheric Turbulence Mitigation' in the <strong><i>CVPR'23 6th UG2+ Challenge</i></strong>!
+# News
+- *2026.09*: Our work [ThinkingVLA](https://fitz135.github.io/thinkingvla.github.io/) for Interleaved Chain-of-Thought VLA has been accepted by <strong><i>CoRL'26</i></strong>!
+- *2026.07*: We introduce [𝒩<sub>0</sub>-Foundation](https://research.neoteai.com/n0-foundation/), a tactile-centric foundation for embodied manipulation spanning infrastructure, data, representation learning, and benchmarks.
+- *2026.07*: We introduce [𝒩<sub>0</sub>-VTLA](https://research.neoteai.com/n0-vtla/), a vision-tactile-language-action foundation model with latent tactile tokens.
+- *2026.07*: We introduce [𝒩<sub>0</sub>-TWAM](https://research.neoteai.com/n0-twam/), a tactile-native world-action model for contact-rich manipulation.
+- *2026.06*: Our work [ViTacMotor](https://shengqi77.github.io/Seeing-Touch-from-Motion/) for Visuo-Tactile Manipulation with Tactile Motion Correlation has been accepted by <strong><i>ECCV'26</i></strong>! 
+- *2026.01*: Our work [PreferThinker](https://3038543815.github.io/preferthinker.github.io/) for reasoning-based personalized image preference assessment has been accepted by <strong><i>ICLR'26</i></strong>! 
+- *2024.07*: Our work [CDSP](https://shengqi77.github.io/RLR-AT.github.io/) for long-range turbulence mitigation with a large-scale benchmark has been accepted by <strong><i>ECCV'24</i></strong>! 
+- *2024.06*: We have won <strong><i>1st place</i></strong> in the track 'Atmospheric Turbulence Mitigation' in the <strong><i>CVPR'24 7th UG2+ Challenge</i></strong>!
+- *2023.06*: We have won <strong><i>1st place</i></strong> in the track 'Atmospheric Turbulence Mitigation' in the <strong><i>CVPR'23 6th UG2+ Challenge</i></strong>!
 
 <span class='anchor' id='publications'></span>
 
 # 📚 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL &middot; 2026</div><img src='images/thinkingvla.png' alt="ThinkingVLA: interleaved vision and language reasoning for robotic manipulation" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation](https://arxiv.org/pdf/2606.17937)
+
+Tianyi Lu, Hui Zhang, Zijie Diao, Junke Wang, <strong class="author-self">Shengqi Xu</strong>, Xingyao Lin, Guojin Zhong, Ziyi Ye, Peng Wang, Zuxuan Wu, Yu-Gang Jiang
+
+[**arXiv**](https://arxiv.org/pdf/2606.17937) / [**Project**](https://fitz135.github.io/thinkingvla.github.io/)
+
+  <p style="margin-top: -11px"><i>Conference on Robot Learning (<strong>CoRL</strong>), 2026.</i></p>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV · 2026</div><img src='images/ECCV 2026.png' alt="Seeing Touch from Motion paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

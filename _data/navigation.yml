@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Technical Reports"
     url: "/#technical-reports"
@@ -13,12 +13,11 @@ main:
     url: "/#publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#education"
 
   - title: "Professional Service"
-    url: "/#-professional-service"
-
+    url: "/#professional-service"
 

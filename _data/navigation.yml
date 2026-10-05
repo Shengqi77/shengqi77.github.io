@@ -6,17 +6,8 @@ main:
   - title: "News"
     url: "/#news"
 
-  - title: "Tactile Manipulation"
-    url: "/#tactile-driven-manipulation"
-
-  - title: "VLA"
-    url: "/#vision-language-action-model"
-
-  - title: "VLM"
-    url: "/#vision-language-model"
-
-  - title: "Computational Photography"
-    url: "/#computational-photography"
+  - title: "Research"
+    url: "/#research"
 
   - title: "Honors and Awards"
     url: "/#honors-and-awards"

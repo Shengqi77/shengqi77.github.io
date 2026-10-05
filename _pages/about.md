@@ -47,9 +47,11 @@ Previously, I received my master's degree from Huazhong University of Science an
 <span class='anchor' id='publications'></span>
 <span class='anchor' id='technical-reports'></span>
 
-# Tactile-driven Manipulation
+# Research
 
 <p class="section-lead"><sup>*</sup> Corresponding author.</p>
+
+## Tactile-driven Manipulation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV · 2026</div><img src='images/ECCV 2026.png' alt="Seeing Touch from Motion paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -112,7 +114,7 @@ Previously, I received my master's degree from Huazhong University of Science an
 </div>
 </div>
 
-# Vision Language Action Model
+## Vision Language Action Model
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL &middot; 2026</div><img src='images/thinkingvla.png' alt="ThinkingVLA: interleaved vision and language reasoning for robotic manipulation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -127,7 +129,7 @@ Tianyi Lu, Hui Zhang, Zijie Diao, Junke Wang, <strong class="author-self">Shengq
 </div>
 </div>
 
-# Vision Language Model
+## Vision Language Model
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR · 2026</div><img src='images/Preferthinker.png' alt="PreferThinker paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -142,7 +144,7 @@ Tianyi Lu, Hui Zhang, Zijie Diao, Junke Wang, <strong class="author-self">Shengq
 </div>
 </div>
 
-# Computational Photography
+## Computational Photography
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV · 2024</div><img src='images/2024ECCV.gif' alt="Long-range Turbulence Mitigation paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

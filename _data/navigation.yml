@@ -6,11 +6,17 @@ main:
   - title: "News"
     url: "/#news"
 
-  - title: "Technical Reports"
-    url: "/#technical-reports"
+  - title: "Tactile Manipulation"
+    url: "/#tactile-driven-manipulation"
 
-  - title: "Publications"
-    url: "/#publications"
+  - title: "VLA"
+    url: "/#vision-language-action-model"
+
+  - title: "VLM"
+    url: "/#vision-language-model"
+
+  - title: "Computational Photography"
+    url: "/#computational-photography"
 
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
@@ -20,4 +26,3 @@ main:
 
   - title: "Professional Service"
     url: "/#professional-service"
-

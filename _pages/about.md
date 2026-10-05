@@ -45,23 +45,11 @@ Previously, I received my master's degree from Huazhong University of Science an
 </div>
 
 <span class='anchor' id='publications'></span>
+<span class='anchor' id='technical-reports'></span>
 
-# Publications
+# Tactile-driven Manipulation
 
 <p class="section-lead"><sup>*</sup> Corresponding author.</p>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL &middot; 2026</div><img src='images/thinkingvla.png' alt="ThinkingVLA: interleaved vision and language reasoning for robotic manipulation" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation](https://arxiv.org/pdf/2606.17937)
-
-Tianyi Lu, Hui Zhang, Zijie Diao, Junke Wang, <strong class="author-self">Shengqi Xu</strong>, Xingyao Lin, Guojin Zhong, Ziyi Ye, Peng Wang, Zuxuan Wu, Yu-Gang Jiang
-
-<p class="paper-links"><a href="https://arxiv.org/pdf/2606.17937">arXiv</a><a href="https://fitz135.github.io/thinkingvla.github.io/">Project</a></p>
-
-  <p class="paper-venue"><i>Conference on Robot Learning (<strong>CoRL</strong>), 2026.</i></p>
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV · 2026</div><img src='images/ECCV 2026.png' alt="Seeing Touch from Motion paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -75,67 +63,6 @@ Tianyi Lu, Hui Zhang, Zijie Diao, Junke Wang, <strong class="author-self">Shengq
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR · 2026</div><img src='images/Preferthinker.png' alt="PreferThinker paper" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[PreferThinker: Reasoning-based Personalized Image Preference Assessment](https://arxiv.org/pdf/2511.00609)
-
-<strong class="author-self">Shengqi Xu</strong>, Xinpeng Zhou, Yabo Zhang, Ming Liu<sup>*</sup>, Tao Liang, Tianyu Zhang, Yalong Bai, Zuxuan Wu, Wangmeng Zuo
-
-<p class="paper-links"><a href="https://arxiv.org/pdf/2511.00609">arXiv</a><a href="https://3038543815.github.io/preferthinker.github.io/">Project</a><a href="https://shengqi77.github.io/">Dataset</a><a href="https://github.com/Shengqi77/PreferThinker">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
-
-  <p class="paper-venue"><i>International Conference on Learning Representations (<strong> ICLR </strong>), 2026.</i></p>
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV · 2024</div><img src='images/2024ECCV.gif' alt="Long-range Turbulence Mitigation paper" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Long-range Turbulence Mitigation: A Large-scale Dataset and A Coarse-to-fine Framework](https://arxiv.org/pdf/2407.08377)
-
-<strong class="author-self">Shengqi Xu</strong>, Run Sun, Yi Chang<sup>*</sup>, Shuning Cao, Xueyao Xiao, Luxin Yan
-
-<p class="paper-links"><a href="https://arxiv.org/pdf/2407.08377">arXiv</a><a href="https://shengqi77.github.io/RLR-AT.github.io/">Project</a><a href="https://drive.google.com/file/d/14z0CvHcEVhkxWu5U7nq64xmB8Apqnx54/view">Dataset</a><a href="https://github.com/Shengqi77/Long-range-Turbulence-Mitigation">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
-
-  <p class="paper-venue"><i>European Conference on Computer Vision (<strong> ECCV </strong>), 2024.</i></p>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW UG2+ · 2023 · Winner</div><img src='images/2023Text.gif' alt="CVPR 2023 UG2+ text recognition solution" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[1st Solution Places for CVPR 2023 UG2+ Challenge Track 2.1-
-Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.08963)
-
-<strong class="author-self">Shengqi Xu</strong>, Xueyao Xiao, Shuning Cao, Yi Chang<sup>*</sup>, Luxin Yan
-
-<p class="paper-links"><a href="https://arxiv.org/pdf/2306.08963">arXiv</a><a href="https://github.com/Shengqi77/UG2_Turbulence_Mitigation">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
-
-<p class="paper-venue"><i>6th  CVPRW UG2+ Challenge,  2023.</i></p>
-<strong><span class="award-highlight">First Place</span> in the Track of Text Recognition through Turbulence</strong>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW UG2+ · 2023 · Winner</div><img src='images/2023Target.gif' alt="CVPR 2023 UG2+ coded target restoration solution" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[1st Solution Places for CVPR 2023 UG2+ Challenge Track 2.2-Coded Target Restoration through Atmospheric Turbulence](https://arxiv.org/pdf/2306.09379)
-
-<strong class="author-self">Shengqi Xu</strong>, Shuning Cao, Haoyue Liu, Xueyao Xiao, Yi Chang<sup>*</sup>, Luxin Yan
-
-<p class="paper-links"><a href="https://arxiv.org/pdf/2306.09379">arXiv</a><a href="https://github.com/Shengqi77/UG2_Turbulence_Mitigation">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
-
-<p class="paper-venue"><i>6th  CVPRW UG2+ Challenge, 2023.</i></p>
-<strong><span class="award-highlight">First Place</span> in the Track of Code Recognition through Turbulence </strong>
-</div>
-</div>
-
-
-<span class='anchor' id='technical-reports'></span>
-
-# Technical Reports
 
 <div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><video class="report-video" autoplay muted loop playsinline controls preload="metadata" poster="images/n0-foundation.png" aria-label="N0-Foundation demonstration"><source src="assets/videos/n0_foundation_demo.mp4" type="video/mp4"><a href="assets/videos/n0_foundation_demo.mp4">Watch the N0-Foundation demonstration</a></video></div></div>
 <div class='paper-box-text' markdown="1">
@@ -182,6 +109,77 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 
   <p class="paper-venue"><i><strong> Technical Report </strong>, 2026.</i></p>
 
+</div>
+</div>
+
+# Vision Language Action Model
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL &middot; 2026</div><img src='images/thinkingvla.png' alt="ThinkingVLA: interleaved vision and language reasoning for robotic manipulation" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation](https://arxiv.org/pdf/2606.17937)
+
+Tianyi Lu, Hui Zhang, Zijie Diao, Junke Wang, <strong class="author-self">Shengqi Xu</strong>, Xingyao Lin, Guojin Zhong, Ziyi Ye, Peng Wang, Zuxuan Wu, Yu-Gang Jiang
+
+<p class="paper-links"><a href="https://arxiv.org/pdf/2606.17937">arXiv</a><a href="https://fitz135.github.io/thinkingvla.github.io/">Project</a></p>
+
+  <p class="paper-venue"><i>Conference on Robot Learning (<strong>CoRL</strong>), 2026.</i></p>
+
+</div>
+</div>
+
+# Vision Language Model
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR · 2026</div><img src='images/Preferthinker.png' alt="PreferThinker paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[PreferThinker: Reasoning-based Personalized Image Preference Assessment](https://arxiv.org/pdf/2511.00609)
+
+<strong class="author-self">Shengqi Xu</strong>, Xinpeng Zhou, Yabo Zhang, Ming Liu<sup>*</sup>, Tao Liang, Tianyu Zhang, Yalong Bai, Zuxuan Wu, Wangmeng Zuo
+
+<p class="paper-links"><a href="https://arxiv.org/pdf/2511.00609">arXiv</a><a href="https://3038543815.github.io/preferthinker.github.io/">Project</a><a href="https://shengqi77.github.io/">Dataset</a><a href="https://github.com/Shengqi77/PreferThinker">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
+
+  <p class="paper-venue"><i>International Conference on Learning Representations (<strong> ICLR </strong>), 2026.</i></p>
+
+</div>
+</div>
+
+# Computational Photography
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV · 2024</div><img src='images/2024ECCV.gif' alt="Long-range Turbulence Mitigation paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Long-range Turbulence Mitigation: A Large-scale Dataset and A Coarse-to-fine Framework](https://arxiv.org/pdf/2407.08377)
+
+<strong class="author-self">Shengqi Xu</strong>, Run Sun, Yi Chang<sup>*</sup>, Shuning Cao, Xueyao Xiao, Luxin Yan
+
+<p class="paper-links"><a href="https://arxiv.org/pdf/2407.08377">arXiv</a><a href="https://shengqi77.github.io/RLR-AT.github.io/">Project</a><a href="https://drive.google.com/file/d/14z0CvHcEVhkxWu5U7nq64xmB8Apqnx54/view">Dataset</a><a href="https://github.com/Shengqi77/Long-range-Turbulence-Mitigation">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
+
+  <p class="paper-venue"><i>European Conference on Computer Vision (<strong> ECCV </strong>), 2024.</i></p>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW UG2+ · 2023 · Winner</div><img src='images/2023Text.gif' alt="CVPR 2023 UG2+ text recognition solution" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[1st Solution Places for CVPR 2023 UG2+ Challenge Track 2.1-
+Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.08963)
+
+<strong class="author-self">Shengqi Xu</strong>, Xueyao Xiao, Shuning Cao, Yi Chang<sup>*</sup>, Luxin Yan
+
+<p class="paper-links"><a href="https://arxiv.org/pdf/2306.08963">arXiv</a><a href="https://github.com/Shengqi77/UG2_Turbulence_Mitigation">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
+
+<p class="paper-venue"><i>6th  CVPRW UG2+ Challenge,  2023.</i></p>
+<strong><span class="award-highlight">First Place</span> in the Track of Text Recognition through Turbulence</strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW UG2+ · 2023 · Winner</div><img src='images/2023Target.gif' alt="CVPR 2023 UG2+ coded target restoration solution" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[1st Solution Places for CVPR 2023 UG2+ Challenge Track 2.2-Coded Target Restoration through Atmospheric Turbulence](https://arxiv.org/pdf/2306.09379)
+
+<strong class="author-self">Shengqi Xu</strong>, Shuning Cao, Haoyue Liu, Xueyao Xiao, Yi Chang<sup>*</sup>, Luxin Yan
+
+<p class="paper-links"><a href="https://arxiv.org/pdf/2306.09379">arXiv</a><a href="https://github.com/Shengqi77/UG2_Turbulence_Mitigation">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
+
+<p class="paper-venue"><i>6th  CVPRW UG2+ Challenge, 2023.</i></p>
+<strong><span class="award-highlight">First Place</span> in the Track of Code Recognition through Turbulence </strong>
 </div>
 </div>
 

@@ -66,7 +66,7 @@
             width: 100%;
         }
 
-        img {
+        img, video.report-video {
             display: block;
             width: 100%;
             max-width: 100%;
@@ -319,4 +319,20 @@ h1:before, .anchor:before {
 .masthead a:hover { color: #476a9e; }
 @media (max-width: 600px) {
     .page__content .profile-intro { padding: 1rem; }
+}
+.paper-box--report .report-role {
+    display: inline-block;
+    margin: .45rem 0 .5rem;
+    padding: .2rem .6rem;
+    border-radius: 5px;
+    background: #eee8f8;
+    color: #655087;
+    font-size: .8em;
+    font-weight: 650;
+}
+.paper-box--report .report-summary {
+    margin: 0 0 .75rem;
+    color: #58677a;
+    font-size: .9em;
+    line-height: 1.65;
 }

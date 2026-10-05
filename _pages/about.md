@@ -137,11 +137,14 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 
 # Technical Reports
 
-<div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><img src='images/n0-foundation.png' alt="N0-Foundation technical report" width="100%"></div></div>
+<div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><video class="report-video" autoplay muted loop playsinline controls preload="metadata" poster="images/n0-foundation.png" aria-label="N0-Foundation demonstration"><source src="assets/videos/n0_foundation_demo.mp4" type="video/mp4"><a href="assets/videos/n0_foundation_demo.mp4">Watch the N0-Foundation demonstration</a></video></div></div>
 <div class='paper-box-text' markdown="1">
 [𝒩<sub>0</sub>-Foundation: Towards the Age of Tactile Intelligence](https://research.neoteai.com/assets/n0-foundation-report.pdf)
 
 <strong>  NeoteAI Team and Fudan TEAI Team </strong>
+
+<p class="report-role">Core Contributor</p>
+<p class="report-summary">A tactile-centric foundation that brings together sensing hardware, large-scale multimodal data, transferable contact representations, and standardized benchmarks. NeoData and NeoForce connect scalable interaction data with hardware-agnostic tactile learning.</p>
 
 <p class="paper-links"><a href="https://research.neoteai.com/assets/n0-foundation-report.pdf">Paper</a><a href="https://research.neoteai.com/n0-foundation/">Project</a><a href="https://huggingface.co/datasets/NeoteAIEmbodied/OpenNeoData">Dataset</a><a href="https://github.com/neoteai/N0-Foundation">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
 
@@ -150,11 +153,14 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 </div>
 </div>
 
-<div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><img src='images/n0-vtla.png' alt="N0-VTLA technical report" width="100%"></div></div>
+<div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><video class="report-video" autoplay muted loop playsinline controls preload="metadata" poster="images/n0-vtla.png" aria-label="N0-VTLA demonstration"><source src="assets/videos/n0_vtla_demo.mp4" type="video/mp4"><a href="assets/videos/n0_vtla_demo.mp4">Watch the N0-VTLA demonstration</a></video></div></div>
 <div class='paper-box-text' markdown="1">
 [𝒩<sub>0</sub>-VTLA:  Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens](https://research.neoteai.com/assets/n0-vtla-report.pdf)
 
 <strong>  NeoteAI Team and Fudan TEAI Team </strong>
+
+<p class="report-role">Core Contributor</p>
+<p class="report-summary">A vision-tactile-language-action foundation model pretrained on NeoData for contact-rich manipulation. Predictive tactile tokens bring learned contact dynamics into action generation, enabling policies to use touch alongside vision and language.</p>
 
 <p class="paper-links"><a href="https://research.neoteai.com/assets/n0-vtla-report.pdf">Paper</a><a href="https://research.neoteai.com/n0-vtla/">Project</a><a href="https://github.com/neoteai/N0-VTLA">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
 
@@ -163,11 +169,14 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 </div>
 </div>
 
-<div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><img src='images/n0-twam.png' alt="N0-TWAM technical report" width="100%"></div></div>
+<div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><video class="report-video" autoplay muted loop playsinline controls preload="metadata" poster="images/n0-twam.png" aria-label="N0-TWAM demonstration"><source src="assets/videos/n0_twam_demo.mp4" type="video/mp4"><a href="assets/videos/n0_twam_demo.mp4">Watch the N0-TWAM demonstration</a></video></div></div>
 <div class='paper-box-text' markdown="1">
 [𝒩<sub>0</sub>−TWAM: Scaling Tactile-Native World Action Model for Contact-Rich Manipulation](https://research.neoteai.com/assets/n0-twam-report.pdf)
 
 <strong>  NeoteAI Team and Fudan TEAI Team </strong>
+
+<p class="report-role">Core Contributor</p>
+<p class="report-summary">A tactile-native world-action model that jointly predicts future visual observations and contact. Large-scale visuo-tactile pretraining across six embodiments and 450 tasks supports action learning for contact-rich manipulation.</p>
 
 <p class="paper-links"><a href="https://research.neoteai.com/assets/n0-twam-report.pdf">Paper</a><a href="https://research.neoteai.com/n0-twam/">Project</a><a href="https://github.com/neoteai/N0-TWAM">Code</a><strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></p>
 

@@ -66,7 +66,20 @@ Previously, I received my master's degree from Huazhong University of Science an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV · 2026</div><img src='images/ECCV 2026.png' alt="Seeing Touch from Motion paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv · 2026</div><img src='images/openvitac_figure1.webp' alt="OpenViTac unified simulation and real-world visuo-tactile benchmark" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[OpenViTac: Learning and Benchmarking Visuo-Tactile Policies in a Unified Sim-and-Real Framework](https://arxiv.org/abs/2610.10384v1)
+
+Yifan Wu, Qin Li, Nan Min, Guojin Zhong, Haoyu Zhao, Zhiyuan Li, Houze Xu, <strong class="author-self">Shengqi Xu</strong>, Xingyao Lin, Zijie Diao, Zhaoxiang Liu, Shiguo Lian, Shunlin Lu, Shihao Zhao, Ziyi Ye, Zuxuan Wu, Yu-Gang Jiang
+
+<p class="paper-links"><a href="https://arxiv.org/abs/2610.10384v1">arXiv</a><a href="https://fvl-repo.github.io/OpenViTac/">Project</a></p>
+
+<p class="paper-venue"><i>arXiv preprint, 2026.</i></p>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV &middot; 2026</div><img src='images/ECCV 2026.png' alt="Seeing Touch from Motion paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Seeing Touch from Motion: A Unified Modality-Aware Visuo-Tactile Policy with Tactile Motion Correlation](https://arxiv.org/pdf/2606.29941)
 

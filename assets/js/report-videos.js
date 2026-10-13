@@ -1,6 +1,6 @@
-/* Only the three technical-report previews are managed here. */
+/* Keep project-preview videos lightweight when they leave the viewport. */
 (() => {
-  const videos = [...document.querySelectorAll('.report-video')];
+  const videos = [...document.querySelectorAll('.report-video, .project-video')];
   const reduced = window.matchMedia('(prefers-reduced-motion: reduce)');
   const visible = new WeakMap();
   const sync = video => {

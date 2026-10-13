@@ -53,6 +53,19 @@ Previously, I received my master's degree from Huazhong University of Science an
 
 ## Tactile-driven Manipulation
 
+<div class='paper-box paper-box--guidedvtla'><div class='paper-box-image'><div><div class="badge">Under Review &middot; 2026</div><video class="project-video" autoplay muted loop playsinline controls preload="metadata" poster="assets/videos/guidedvtla_overview_poster.jpg" aria-label="GuidedVTLA project overview"><source src="assets/videos/guidedvtla_overview.mp4" type="video/mp4"><a href="assets/videos/guidedvtla_overview.mp4">Watch the GuidedVTLA project overview</a></video></div></div>
+<div class='paper-box-text' markdown="1">
+[GuidedVTLA: Where Proactive Tactile Guidance Meets Reactive Tactile Refinement](https://shengqi77.github.io/GuidedVTLA/)
+
+<strong class="author-self">Shengqi Xu</strong>, Guojin Zhong, Yutao Fan, Tianyi Lu, Yuhan Zhu, Yutao Ling, Zhiying Du, Shunlin Lu, Ziyi Ye, Zuxuan Wu<sup>*</sup>, Yu-Gang Jiang<sup>*</sup>
+
+<p class="paper-links"><a href="https://shengqi77.github.io/GuidedVTLA/">Project</a></p>
+
+<p class="paper-venue"><i>Under Review, 2026.</i></p>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV · 2026</div><img src='images/ECCV 2026.png' alt="Seeing Touch from Motion paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Seeing Touch from Motion: A Unified Modality-Aware Visuo-Tactile Policy with Tactile Motion Correlation](https://arxiv.org/pdf/2606.29941)

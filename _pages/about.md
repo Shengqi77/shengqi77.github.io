@@ -66,7 +66,12 @@ Previously, I received my master's degree from Huazhong University of Science an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv · 2026</div><img src='images/openvitac_figure1.webp' alt="OpenViTac unified simulation and real-world visuo-tactile benchmark" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv · 2026</div><div class="openvitac-video-grid" role="img" aria-label="OpenViTac demonstrations: gear assembly, chips grasping, USB insertion, and surface roughness classification">
+<video class="openvitac-video" autoplay muted loop playsinline preload="metadata" aria-hidden="true"><source src="https://fvl-repo.github.io/OpenViTac/assets/demos/real/gear_assembly/standard/success/demo.mp4" type="video/mp4"></video>
+<video class="openvitac-video" autoplay muted loop playsinline preload="metadata" aria-hidden="true"><source src="https://fvl-repo.github.io/OpenViTac/assets/demos/real/grasp_chips/standard/success/demo.mp4" type="video/mp4"></video>
+<video class="openvitac-video" autoplay muted loop playsinline preload="metadata" aria-hidden="true"><source src="https://fvl-repo.github.io/OpenViTac/assets/demos/real/insert_usb/standard/success/demo.mp4" type="video/mp4"></video>
+<video class="openvitac-video" autoplay muted loop playsinline preload="metadata" aria-hidden="true"><source src="https://fvl-repo.github.io/OpenViTac/assets/demos/real/roughness_classify/rough/success/demo.mp4" type="video/mp4"></video>
+</div></div></div>
 <div class='paper-box-text' markdown="1">
 [OpenViTac: Learning and Benchmarking Visuo-Tactile Policies in a Unified Sim-and-Real Framework](https://arxiv.org/abs/2610.10384v1)
 

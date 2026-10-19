@@ -76,6 +76,23 @@
             box-shadow: none;
         }
 
+        .openvitac-video-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 4px;
+            overflow: hidden;
+            border-radius: 11px;
+            background: #e9eef3;
+        }
+
+        .openvitac-video {
+            display: block;
+            width: 100%;
+            aspect-ratio: 16 / 9;
+            object-fit: cover;
+            background: #e9eef3;
+        }
+
         // Keep labels outside the figure so they never obscure its content.
         .badge {
             position: static;

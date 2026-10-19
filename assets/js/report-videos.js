@@ -19,6 +19,10 @@
     video.muted = true;
     video.defaultMuted = true;
     video.loop = true;
+    if (video.classList.contains('openvitac-video')) {
+      video.defaultPlaybackRate = 3;
+      video.playbackRate = 3;
+    }
     if (reduced.matches) { video.autoplay = false; video.pause(); }
     observer.observe(video);
   });

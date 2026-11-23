@@ -53,6 +53,19 @@ Previously, I received my master's degree from Huazhong University of Science an
 
 ## Tactile-driven Manipulation
 
+<div class='paper-box paper-box--sparsevitac'><div class='paper-box-image'><div><div class="badge">Under Review &middot; 2026</div><video class="project-video" autoplay muted loop playsinline controls preload="metadata" poster="assets/videos/sparsevitac_overview_poster.jpg" aria-label="SparseViTac project overview"><source src="assets/videos/sparsevitac_overview.mp4" type="video/mp4"><a href="assets/videos/sparsevitac_overview.mp4">Watch the SparseViTac project overview</a></video></div></div>
+<div class='paper-box-text' markdown="1">
+[SparseViTac: Efficient World-Action Modeling via Sparse Visuo-Tactile Dynamics for Contact-Rich Manipulation](https://shengqi77.github.io/SparseViTac_Web/)
+
+<strong class="author-self">Shengqi Xu</strong>, Guojin Zhong, Kunshuo Li, Jiongtao Chen, Tianyi Lu, Rui Li, Yifan Wu, Shunlin Lu, Ziyi Ye, Zuxuan Wu
+
+<p class="paper-links"><a href="https://shengqi77.github.io/SparseViTac_Web/">Project</a></p>
+
+<p class="paper-venue"><i>Under Review, 2026.</i></p>
+
+</div>
+</div>
+
 <div class='paper-box paper-box--guidedvtla'><div class='paper-box-image'><div><div class="badge">Under Review &middot; 2026</div><video class="project-video" autoplay muted loop playsinline controls preload="metadata" poster="assets/videos/guidedvtla_overview_poster.jpg" aria-label="GuidedVTLA project overview"><source src="assets/videos/guidedvtla_overview.mp4" type="video/mp4"><a href="assets/videos/guidedvtla_overview.mp4">Watch the GuidedVTLA project overview</a></video></div></div>
 <div class='paper-box-text' markdown="1">
 [GuidedVTLA: Where Proactive Tactile Guidance Meets Reactive Tactile Refinement](https://shengqi77.github.io/GuidedVTLA/)
@@ -66,7 +79,7 @@ Previously, I received my master's degree from Huazhong University of Science an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv · 2026</div><div class="openvitac-video-grid" role="img" aria-label="OpenViTac demonstrations: gear assembly, chips grasping, USB insertion, and surface roughness classification">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review &middot; 2026</div><div class="openvitac-video-grid" role="img" aria-label="OpenViTac demonstrations: gear assembly, chips grasping, USB insertion, and surface roughness classification">
 <video class="openvitac-video" autoplay muted loop playsinline preload="metadata" aria-hidden="true"><source src="https://fvl-repo.github.io/OpenViTac/assets/demos/real/gear_assembly/standard/success/demo.mp4" type="video/mp4"></video>
 <video class="openvitac-video" autoplay muted loop playsinline preload="metadata" aria-hidden="true"><source src="https://fvl-repo.github.io/OpenViTac/assets/demos/real/grasp_chips/standard/success/demo.mp4" type="video/mp4"></video>
 <video class="openvitac-video" autoplay muted loop playsinline preload="metadata" aria-hidden="true"><source src="https://fvl-repo.github.io/OpenViTac/assets/demos/real/insert_usb/standard/success/demo.mp4" type="video/mp4"></video>
@@ -79,7 +92,7 @@ Yifan Wu, Qin Li, Nan Min, Guojin Zhong, Haoyu Zhao, Zhiyuan Li, Houze Xu, <stro
 
 <p class="paper-links"><a href="https://arxiv.org/abs/2610.10384v1">arXiv</a><a href="https://fvl-repo.github.io/OpenViTac/">Project</a></p>
 
-<p class="paper-venue"><i>arXiv preprint, 2026.</i></p>
+<p class="paper-venue"><i>Under Review, 2026.</i></p>
 
 </div>
 </div>

@@ -55,7 +55,7 @@ Previously, I received my master's degree from Huazhong University of Science an
 
 <div class='paper-box paper-box--sparsevitac'><div class='paper-box-image'><div><div class="badge">Under Review &middot; 2026</div><video class="project-video" autoplay muted loop playsinline controls preload="metadata" poster="assets/videos/sparsevitac_overview_poster.jpg" aria-label="SparseViTac project overview"><source src="assets/videos/sparsevitac_overview.mp4" type="video/mp4"><a href="assets/videos/sparsevitac_overview.mp4">Watch the SparseViTac project overview</a></video></div></div>
 <div class='paper-box-text' markdown="1">
-[SparseViTac: Efficient World-Action Modeling via Sparse Visuo-Tactile Dynamics for Contact-Rich Manipulation](https://shengqi77.github.io/SparseViTac_Web/)
+[Efficient World-Action Modeling via Sparse Visuo-Tactile Dynamics for Contact-Rich Manipulation](https://shengqi77.github.io/SparseViTac_Web/)
 
 <strong class="author-self">Shengqi Xu</strong>, Guojin Zhong, Kunshuo Li, Jiongtao Chen, Tianyi Lu, Rui Li, Yifan Wu, Shunlin Lu, Ziyi Ye, Zuxuan Wu
 
